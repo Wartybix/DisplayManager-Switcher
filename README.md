@@ -1,6 +1,6 @@
 # How to use
 Clone this repository with `git clone https://github.com/Wartybix/DisplayManager-Switcher`. Then open it with `cd DisplayManager-Switcher`.
-Pass the program you want to open as an argument to `dm-switcher.sh` (e.g. `./dm-switcher.sh code`)
+Pass the program you want to open as an argument to `dm-switcher.sh` (e.g. `./dm-switcher.sh code`).
 
 ## Use via your desktop environment
 
@@ -17,4 +17,4 @@ to
 `/usr/share/dm-switcher/dm-switcher.sh /usr/share/code/code --unity-launch %F`.
 
 ### Uninstall
-If you don't find this program useful, you can uninstall the program by running `./uninstall.sh`.
+If you don't find this program useful, you can uninstall it by running `./uninstall.sh`.
