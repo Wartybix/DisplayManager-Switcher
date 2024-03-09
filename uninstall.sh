@@ -1,2 +1,2 @@
-rm -r ~/.local/share/dm-switcher/
+rm -r /usr/share/dm-switcher
 echo "Removed 😿"
